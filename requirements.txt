@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+httpx
+pydantic
+python-dotenv
+slowapi
+aio_pika
+loguru
+pydantic-settings
